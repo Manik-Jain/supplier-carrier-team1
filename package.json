@@ -1,0 +1,24 @@
+{
+  "name": "supplier-carrier-team_1",
+  "version": "1.0.0",
+  "description": "ease the supplier-carrier business using blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manik-Jain/supplier-carrier-team1.git"
+  },
+  "keywords": [
+    "supplier",
+    "carrier",
+    "blockchain"
+  ],
+  "author": "Manik Jain, Sanjana Pai, Deep Bhatt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manik-Jain/supplier-carrier-team1/issues"
+  },
+  "homepage": "https://github.com/Manik-Jain/supplier-carrier-team1#readme"
+}
